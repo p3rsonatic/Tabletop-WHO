@@ -1,6 +1,3 @@
-# Tabletop-WHO
-Tabletop Work Helper Operator -  RPG tools to facilitate development and gameplay - focused on D&amp;D format (initially)
-
 # Tabletop Work Helper Operator
 
 Tools to ease RPG development from a map editor to sheet writer.
