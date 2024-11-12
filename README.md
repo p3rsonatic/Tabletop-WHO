@@ -1,4 +1,4 @@
-# Tabletop Work Helper Operator
+# Tabletop Work Help Operator
 
 Tools to ease RPG development from a map editor to sheet writer.
 
